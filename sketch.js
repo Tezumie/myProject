@@ -1,1 +1,7 @@
-ZnVuY3Rpb24gc2V0dXAoKSB7CiAgY3JlYXRlQ2FudmFzKDcwMCwgNzAwKTsKfQoKZnVuY3Rpb24gZHJhdygpIHsKICBiYWNrZ3JvdW5kKDIyMCk7Cn0=
+function setup() {
+  createCanvas(700, 700);
+}
+
+function draw() {
+  background(220);
+}
